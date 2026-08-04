@@ -209,9 +209,5 @@ pip install -r requirements.txt
 
 **Nishant**
 
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://linkedin.com/in/nishant1800
 - GitHub: https://github.com/nishant1800
-
----
-
-## ⭐ If you found this project useful, please give it a Star!
