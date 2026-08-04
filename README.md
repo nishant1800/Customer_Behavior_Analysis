@@ -56,7 +56,7 @@ The objective is to identify customer trends, product performance, spending beha
 |------|---------|
 | Python | Data Cleaning & Feature Engineering |
 | Pandas | Data Manipulation |
-| PostgreSQL | SQL Analysis |
+| MySQL | SQL Analysis |
 | SQL | Business Queries |
 | Power BI | Dashboard & Visualization |
 | Jupyter Notebook | Development Environment |
@@ -139,8 +139,7 @@ Customer-Shopping-Behavior-Analysis/
 │   ├── shopping_data.csv
 │
 ├── Python/
-│   ├── Customer_Behavior_Dashboard.pbix
-│   ├── preprocessing.ipynb
+│   ├── Customer_Behavior_Dashboard.ipynb
 │
 ├── SQL/
 │   ├── business_queries.sql
@@ -212,3 +211,7 @@ pip install -r requirements.txt
 
 - LinkedIn: https://linkedin.com/in/your-profile
 - GitHub: https://github.com/nishant1800
+
+---
+
+## ⭐ If you found this project useful, please give it a Star!
